@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A Play of Hearts", "A Play of Hearts.csproj", "{16409966-5CEC-6402-EBE0-875C84A3434D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A Play of Hearts.Editor", "A Play of Hearts.Editor.csproj", "{31B4A36F-9268-525D-373F-9BB5B58F9A38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16409966-5CEC-6402-EBE0-875C84A3434D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16409966-5CEC-6402-EBE0-875C84A3434D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16409966-5CEC-6402-EBE0-875C84A3434D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16409966-5CEC-6402-EBE0-875C84A3434D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B4A36F-9268-525D-373F-9BB5B58F9A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B4A36F-9268-525D-373F-9BB5B58F9A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B4A36F-9268-525D-373F-9BB5B58F9A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B4A36F-9268-525D-373F-9BB5B58F9A38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
